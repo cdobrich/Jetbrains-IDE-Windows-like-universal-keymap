@@ -80,8 +80,8 @@
   <action id="Arrangement.Rule.Match.Condition.Move.Down" />
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
   <action id="AutoIndentLines">
-    <keyboard-shortcut first-keystroke="ctrl meta i" />
     <keyboard-shortcut first-keystroke="meta alt 0" />
+    <keyboard-shortcut first-keystroke="meta alt i" />
   </action>
   <action id="Back">
     <keyboard-shortcut first-keystroke="ctrl meta left" />

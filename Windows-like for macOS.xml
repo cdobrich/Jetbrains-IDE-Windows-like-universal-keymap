@@ -433,7 +433,9 @@
   <action id="EditorScrollUp">
     <keyboard-shortcut first-keystroke="ctrl up" />
   </action>
-  <action id="EditorSelectWord" />
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="shift ctrl e" />
+  </action>
   <action id="EditorShowGutterIconTooltip">
     <keyboard-shortcut first-keystroke="shift meta 6" second-keystroke="t" />
   </action>
@@ -924,9 +926,7 @@
   <action id="RecentFiles">
     <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
-  <action id="RecentLocations">
-    <keyboard-shortcut first-keystroke="shift ctrl e" />
-  </action>
+  <action id="RecentLocations" />
   <action id="Refactorings.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="shift ctrl meta t" />
     <keyboard-shortcut first-keystroke="shift meta alt t" />

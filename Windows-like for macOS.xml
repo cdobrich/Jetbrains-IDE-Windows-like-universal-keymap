@@ -63,7 +63,7 @@
     <keyboard-shortcut first-keystroke="meta 7" />
   </action>
   <action id="ActivateTerminalToolWindow">
-    <keyboard-shortcut first-keystroke="meta f12" />
+    <keyboard-shortcut first-keystroke="ctrl back_quote" />
   </action>
   <action id="ActivateUnitTestsToolWindow">
     <keyboard-shortcut first-keystroke="shift meta 8" />
@@ -852,9 +852,6 @@
     <keyboard-shortcut first-keystroke="tab" />
     <keyboard-shortcut first-keystroke="enter" />
   </action>
-  <action id="NextWindow">
-    <keyboard-shortcut first-keystroke="meta back_quote" />
-  </action>
   <action id="OpenInRightSplit">
     <keyboard-shortcut first-keystroke="shift enter" />
     <mouse-shortcut keystroke="meta button1 doubleClick" />
@@ -909,7 +906,7 @@
     <keyboard-shortcut first-keystroke="ctrl meta enter" />
   </action>
   <action id="QuickChangeScheme">
-    <keyboard-shortcut first-keystroke="ctrl back_quote" />
+    <keyboard-shortcut first-keystroke="meta back_quote" />
   </action>
   <action id="QuickEvaluateExpression">
     <keyboard-shortcut first-keystroke="ctrl meta f8" />

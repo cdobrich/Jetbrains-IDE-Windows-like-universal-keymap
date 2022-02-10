@@ -1111,6 +1111,9 @@
   <action id="SplitChooser.SplitCenter">
     <keyboard-shortcut first-keystroke="space" />
   </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="ctrl back_slash" />
+  </action>
   <action id="StepInto">
     <keyboard-shortcut first-keystroke="f7" />
   </action>

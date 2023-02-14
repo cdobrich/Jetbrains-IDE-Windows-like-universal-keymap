@@ -80,9 +80,9 @@
   <action id="Arrangement.Rule.Match.Condition.Move.Down" />
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
   <action id="AutoIndentLines">
+    <keyboard-shortcut first-keystroke="ctrl alt i" />
     <keyboard-shortcut first-keystroke="meta alt 0" />
     <keyboard-shortcut first-keystroke="meta alt i" />
-    <keyboard-shortcut first-keystroke="ctrl alt i" />
   </action>
   <action id="Back">
     <keyboard-shortcut first-keystroke="ctrl meta left" />
@@ -208,6 +208,9 @@
   </action>
   <action id="ContextHelp">
     <keyboard-shortcut first-keystroke="f1" />
+  </action>
+  <action id="ConvertIndentsToSpaces">
+    <keyboard-shortcut first-keystroke="meta alt s" />
   </action>
   <action id="CopyElement">
     <keyboard-shortcut first-keystroke="f5" />
@@ -414,6 +417,7 @@
   </action>
   <action id="EditorPasteSimple">
     <keyboard-shortcut first-keystroke="shift ctrl meta v" />
+    <keyboard-shortcut first-keystroke="shift meta v" />
   </action>
   <action id="EditorPreviousWord">
     <keyboard-shortcut first-keystroke="alt left" />
@@ -610,6 +614,7 @@
   </action>
   <action id="FindPrevious">
     <keyboard-shortcut first-keystroke="shift f3" />
+    <keyboard-shortcut first-keystroke="shift ctrl l" />
     <keyboard-shortcut first-keystroke="shift meta g" />
   </action>
   <action id="FindUsages">
@@ -927,7 +932,7 @@
     <keyboard-shortcut first-keystroke="shift meta alt t" />
   </action>
   <action id="ReformatCode">
-    <keyboard-shortcut first-keystroke="shift ctrl l" />
+    <keyboard-shortcut first-keystroke="ctrl meta l" />
   </action>
   <action id="Refresh">
     <keyboard-shortcut first-keystroke="ctrl f5" />

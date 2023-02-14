@@ -78,6 +78,7 @@ Code Completion: Ctrl+Space
 	** Complete Current Statement: Ctrl + Shift + Space
 	** Second Basic Completion: Meta + Ctrl + Space
 	** Type-Matching: Ctrl + Shift + Space
+Code Indent -> Convert to Spaces: Ctrl + Alt + S
 Comment Line Toggle: Ctrl + /
 Complete Code (Snippet Insert): Ctrl + J
 Delete Line (Cut to Paste Buffer): Shift + Delete
@@ -122,6 +123,7 @@ Move Line Up:
 	Ctrl + Shift + Up
 Open Last Closed Tab: Ctrl + Shift + T
 Optimize Imports: Meta + Ctrl + O
+Paste Plain Text: Ctrl + Shift + V
 Quick Switch: Meta + `
 	** Conflicted on KDE, may not work.
 Recently Edited Files: Ctrl + E

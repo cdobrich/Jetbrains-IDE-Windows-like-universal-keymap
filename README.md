@@ -1,5 +1,9 @@
 # Windows-like IntelliJ keymap for macOS
 
+# TODO
+
+Create your own project repository for this project. You can keep watch upstream but your own work is tuned to your own preferences.
+
 ## TL;DR
 
 Take the file <https://github.com/cdobrich/windows-like-intellij-keymap-for-macos/blob/master/Windows-like%20for%20macOS.xml> and place it inside "~/Library/Application Support/JetBrains/\<IDE-NAME>/keymaps".

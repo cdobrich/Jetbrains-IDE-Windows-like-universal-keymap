@@ -206,9 +206,7 @@
   <action id="Console.Open">
     <keyboard-shortcut first-keystroke="shift ctrl f10" />
   </action>
-  <action id="ContextHelp">
-    <keyboard-shortcut first-keystroke="f1" />
-  </action>
+  <action id="ContextHelp" />
   <action id="ConvertIndentsToSpaces">
     <keyboard-shortcut first-keystroke="meta alt s" />
   </action>
@@ -677,6 +675,7 @@
   </action>
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="shift ctrl a" />
+    <keyboard-shortcut first-keystroke="f1" />
   </action>
   <action id="GotoBookmark0">
     <keyboard-shortcut first-keystroke="ctrl 0" />

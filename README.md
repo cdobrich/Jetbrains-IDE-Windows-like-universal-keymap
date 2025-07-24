@@ -1,4 +1,4 @@
-# Windows-like IntelliJ keymap for macOS
+# Jetbrains IDE Windows like universal keymap 
 
 # TODO
 
@@ -6,7 +6,9 @@ Create your own project repository for this project. You can keep watch upstream
 
 ## TL;DR
 
-Take the file <https://github.com/cdobrich/windows-like-intellij-keymap-for-macos/blob/master/Windows-like%20for%20macOS.xml> and place it inside "~/Library/Application Support/JetBrains/\<IDE-NAME>/keymaps".
+`Learn once, use everywhere.` This is a universe keymap for the various JetBrains IDEs, specifically PyCharm and WebStorm. This keymap is derived from Windows-OS convention keys, but should work on MacOS and Linux universally.
+
+Take the file <https://github.com/cdobrich/Jetbrains-IDE-Windows-like-universal-keymap/blob/master/Jetbrains-IDE-Windows-like-universal-keymap.xml> and place it inside "~/Library/Application Support/JetBrains/\<IDE-NAME>/keymaps".
 
 ## Overview
 

@@ -53,11 +53,15 @@ Install Locations:
 		Syntax: ~/Library/Application Support/JetBrains/<product><version>/keymaps
 		Example: ~/Library/Application\ Support/JetBrains/WebStorm2021.3/keymaps
 
-	Linux:
+	Linux (non-flatpak):
 
 		Syntax: ~/.config/JetBrains/<product><version>/keymaps
 		Example: ~/.config/JetBrains/IntelliJIdea2021.3/keymaps
 
+	Linux (flatpak version):
+
+		Syntax: ~/.var/app/com.jetbrains.PyCharm-Community/config/JetBrains/<product><version>/keymaps/
+		Example: ~/.var/app/com.jetbrains.PyCharm-Community/.config/JetBrains/IntelliJIdea2021.3/keymaps
 
 To install:
 

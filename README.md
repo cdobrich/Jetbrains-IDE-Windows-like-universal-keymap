@@ -10,6 +10,8 @@ Create your own project repository for this project. You can keep watch upstream
 
 Take the file <https://github.com/cdobrich/Jetbrains-IDE-Windows-like-universal-keymap/blob/master/Jetbrains-IDE-Windows-like-universal-keymap.xml> and place it inside "~/Library/Application Support/JetBrains/\<IDE-NAME>/keymaps".
 
+This file can also be converted to work with VSCode, continuing the motto of `Learn once, use everywhere.`
+
 ## Overview
 
 A node script to generate a Windows-like keymap for all of your JetBrains IDEs on macOS, based on the Windows default keymap for IntelliJ IDEA Community Edition combined with a little sensibility from Windows VSCode whenever unsure. This is for when you have already memorized many of the shortcuts on Windows and you have recently migrated to macOS, to do iOS development for example.

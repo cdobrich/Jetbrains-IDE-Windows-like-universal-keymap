@@ -8,7 +8,7 @@ Create your own project repository for this project. You can keep watch upstream
 
 `Learn once, use everywhere.` This is a universe keymap for the various JetBrains IDEs, specifically PyCharm and WebStorm. This keymap is derived from Windows-OS convention keys, but should work on MacOS and Linux universally.
 
-Take the file <https://github.com/cdobrich/Jetbrains-IDE-Windows-like-universal-keymap/blob/master/Jetbrains-IDE-Windows-like-universal-keymap.xml> and place it inside "~/Library/Application Support/JetBrains/\<IDE-NAME>/keymaps".
+Take the file [Jetbrains-IDE-Windows-like-universal-keymap.xml](https://github.com/cdobrich/Jetbrains-IDE-Windows-like-universal-keymap/blob/master/Jetbrains-IDE-Windows-like-universal-keymap.xml) and place it inside "~/Library/Application Support/JetBrains/\<IDE-NAME>/keymaps".
 
 This file can also be converted to work with VSCode, continuing the motto of `Learn once, use everywhere.`
 
@@ -16,7 +16,7 @@ This file can also be converted to work with VSCode, continuing the motto of `Le
 
 A node script to generate a Windows-like keymap for all of your JetBrains IDEs on macOS, based on the Windows default keymap for IntelliJ IDEA Community Edition combined with a little sensibility from Windows VSCode whenever unsure. This is for when you have already memorized many of the shortcuts on Windows and you have recently migrated to macOS, to do iOS development for example.
 
-The IntelliJ default keymap can be found here: <https://github.com/JetBrains/intellij-community/blob/master/platform/platform-resources/src/keymaps/%24default.xml>.
+The IntelliJ default keymap can be found here: [$default.xml](https://github.com/JetBrains/intellij-community/blob/master/platform/platform-resources/src/keymaps/%24default.xml).
 
 Please note that this project assumes your keyboard is of the Windows layout, where the bottom row starts with "Ctrl -> Win -> Alt". Alternatively with a Mac keyboard layout, take a keyboard where the bottom row starts with "Ctrl -> Option -> Cmd" and swap the Win and Alt inputs using the OS or Karabiner-Elements.
 
@@ -79,6 +79,7 @@ To install:
 
 NOTE: The 'Meta' is 'Cmd' key on MacOS and is the same as the 'Win' key on Windows-Keyboards.
 
+```
 Add All Imports: Alt + Shift + Enter
 Auto-Indent Lines: 
 	Meta + Alt + 0
@@ -169,3 +170,4 @@ Undo Closed Tab:
 	Ctrl + Shift + T
 	Meta + Shift + T
 Zen-Mode (Hide All Tool Windows): Ctrl + H
+```
